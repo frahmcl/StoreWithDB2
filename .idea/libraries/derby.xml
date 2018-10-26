@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="derby">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DistributedJava/Project5DB/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DistributedJava/Project5DB/lib/derbyclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DistributedJava/Project5DB/lib/derbynet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DistributedJava/Project5DB/lib/derbyoptionaltools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DistributedJava/Project5DB/lib/derbyrun.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DistributedJava/Project5DB/lib/derbytools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

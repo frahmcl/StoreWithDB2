@@ -7,7 +7,6 @@
           <element id="module-output" name="NameMVC" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="application" name="derby" />
           <element id="library" level="project" name="derby" />
         </element>
       </element>

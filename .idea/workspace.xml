@@ -7,123 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb17693-490f-4f88-b4c5-839cf6736060" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/NameMVC_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/NameMVC_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NameMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NameMVC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/db.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/log/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/log/log.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/log/log1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/log/logmirror.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c10.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c101.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c111.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c121.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c130.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c141.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c150.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c161.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c171.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c180.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c191.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1c0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1d1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1e0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1f1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c20.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c200.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c211.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c221.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c230.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c241.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c251.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c260.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c271.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c281.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c290.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2c1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2d0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2e1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2f0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c300.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c31.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c311.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c321.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c331.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c340.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c351.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c361.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c371.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c380.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c391.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3c0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3d1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3e1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3f1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c400.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c41.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c411.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c421.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c430.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c441.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c451.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c461.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c470.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c481.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c51.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c60.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c71.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c81.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c90.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/ca1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/cb1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/cc0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/cd1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/ce1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/cf0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductDB/service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/BillController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/CartController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/CartPlaceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/HomeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/DBStructure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/ProductInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/ProductLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/bill.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/cart.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/home.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/apples.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/bananas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/bread.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/carrots.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/celery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/fruit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/grapes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/meat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/pineapple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/potatoes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/salt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/steak.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/storefront.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/productList.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -352,6 +237,34 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1291154665">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -367,11 +280,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/ProductLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+              <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -379,11 +292,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/productList.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            <state relative-caret-position="17">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -458,10 +380,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="1910" />
+    <option name="y" value="-10" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -472,70 +394,58 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreWithDB2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreWithDB2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreWithDB2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreWithDB2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreWithDB2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreWithDB2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mattgreen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreWithDB2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreWithDB2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mattgreen" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreWithDB2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreWithDB2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mattgreen" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreWithDB2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreWithDB2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
             <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="StoreWithDB2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -547,27 +457,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540527863952" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/toms/Distributed/lib/javax.transaction.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15136719" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Fall 2018\Project4\NameMVC\web" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="us.mattgreen.controller" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Fall 2018\FrahmStores - Copy" />
       <recent name="C:\Fall 2018\Project4\NameMVC\web" />
       <recent name="C:\Fall 2018\Project4\NameMVC\src\us\mattgreen\model" />
       <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/src/us/mattgreen/model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="us.mattgreen.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Fall 2018\Project4\NameMVC\web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -583,7 +493,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Store" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.0" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Store" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.00" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="NameMVC:war exploded">
           <settings />
@@ -694,11 +604,12 @@
       <workItem from="1540254846342" duration="5641000" />
       <workItem from="1540427195470" duration="1110000" />
       <workItem from="1540523588052" duration="4114000" />
+      <workItem from="1540528021570" duration="1687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60767000" />
+    <option name="totallyTimeSpent" value="62454000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -710,10 +621,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16163649" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -723,7 +634,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932885" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73134327" visible="true" weight="0.27962577" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73134327" weight="0.27903682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -731,7 +642,7 @@
       <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.4978678" weight="0.32848233" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4968017" weight="0.32848233" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.26865673" side_tool="true" weight="0.27962577" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49731544" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49731544" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.4986577" weight="0.32885906" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" sideWeight="0.4986577" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4989339" weight="0.32848233" />
@@ -741,7 +652,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.15991472" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.15962441" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -775,9 +686,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/artifacts/NameMVC_war_exploded.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/NameMVC_war_exploded.xml" />
     <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/NameController.java" />
     <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/NameService.java" />
     <entry file="file://$PROJECT_DIR$/web/app.js">
@@ -800,12 +709,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/feb40cae-7985-4db5-88b0-b20a513c33f2/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e649e57-9865-457a-89a3-b73486607350/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/feb40cae-7985-4db5-88b0-b20a513c33f2/console.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e649e57-9865-457a-89a3-b73486607350/console.sql" />
     <entry file="file://$PROJECT_DIR$/web/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -828,9 +733,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5457f57d-15b0-42e0-b365-366475500a3f/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5457f57d-15b0-42e0-b365-366475500a3f/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/BillController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -883,16 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -903,20 +796,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/productList.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/ProductLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/productList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
         </state>
       </provider>
     </entry>

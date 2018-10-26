@@ -3,57 +3,127 @@
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="NameMVC:war exploded" />
-      <artifact name="NameMVC:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb17693-490f-4f88-b4c5-839cf6736060" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/NameMVC_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/NameMVC_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NameMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NameMVC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/BillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/BillController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/CartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/CartPlaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/CartPlaceController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/NameController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/ProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/Name.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/NameService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/ProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/bill.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/bill.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/nameDetail.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/nameList.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/pricing.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/productDetail.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/productList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/BillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/BillController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/CartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/CartPlaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/CartPlaceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/db.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/log/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/log/log.ctrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/log/log1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/log/logmirror.ctrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c10.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c101.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c111.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c121.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c130.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c141.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c150.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c161.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c171.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c180.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c191.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1c0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1d1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1e0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c1f1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c20.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c200.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c211.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c221.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c230.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c241.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c251.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c260.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c271.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c281.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c290.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2c1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2d0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2e1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c2f0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c300.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c31.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c311.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c321.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c331.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c340.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c351.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c361.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c371.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c380.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c391.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3c0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3d1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3e1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c3f1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c400.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c41.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c411.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c421.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c430.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c441.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c451.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c461.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c470.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c481.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c51.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c60.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c71.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c81.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/c90.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/ca1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/cb1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/cc0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/cd1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/ce1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/seg0/cf0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductDB/service.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/BillController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/CartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/CartPlaceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/DBStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/ProductInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/classes/us/mattgreen/model/ProductLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/bill.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/cart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/apples.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/bananas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/bread.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/carrots.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/celery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/fruit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/grapes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/meat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/pineapple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/potatoes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/salt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/steak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/img/storefront.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NameMVC_war_exploded/productList.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/controller/ProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NameMVC/us/mattgreen/model/ProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/us/mattgreen/controller/BillController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/us/mattgreen/controller/BillController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/us/mattgreen/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/us/mattgreen/controller/CartController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/us/mattgreen/controller/CartPlaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/us/mattgreen/controller/CartPlaceController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/us/mattgreen/controller/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/us/mattgreen/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/us/mattgreen/model/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pricing.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/productDetail.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/productList.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,17 +143,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ProductDB" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ProductDB" type="feb32156:DbDataSourceImpl" />
-        <item name="APP: schema" type="6aa84934:DerbyImplModel$Schema" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -245,15 +305,16 @@
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="3" />
           <entry key="iml" value="1" />
-          <entry key="java" value="38" />
-          <entry key="jsp" value="17" />
+          <entry key="java" value="39" />
+          <entry key="jsp" value="18" />
           <entry key="png" value="1" />
           <entry key="sql" value="3" />
           <entry key="xml" value="4" />
@@ -264,8 +325,8 @@
           <entry key="HTML" value="3" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="38" />
-          <entry key="JSP" value="17" />
+          <entry key="JAVA" value="39" />
+          <entry key="JSP" value="18" />
           <entry key="Scratch" value="3" />
           <entry key="XML" value="4" />
         </counts>
@@ -275,7 +336,7 @@
           <entry key="dummy" value="34" />
           <entry key="html" value="2" />
           <entry key="iml" value="144" />
-          <entry key="java" value="680" />
+          <entry key="java" value="681" />
           <entry key="jsp" value="221" />
           <entry key="xml" value="84" />
         </counts>
@@ -284,7 +345,7 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="144" />
-          <entry key="JAVA" value="680" />
+          <entry key="JAVA" value="681" />
           <entry key="JSP" value="221" />
           <entry key="PLAIN_TEXT" value="34" />
           <entry key="XML" value="84" />
@@ -297,41 +358,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/ProductController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/ProductLibrary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/DBStructure.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-289">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/CartPlaceController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="561">
+              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -340,10 +368,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java">
+        <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/ProductLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="187">
+              <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -352,46 +380,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/ProductInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/home.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/productList.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1445">
-              <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+            <state relative-caret-position="-12">
+              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -443,12 +435,12 @@
         <option value="$PROJECT_DIR$/web/cart.jsp" />
         <option value="$PROJECT_DIR$/NameMVC.iml" />
         <option value="$PROJECT_DIR$/web/home.jsp" />
-        <option value="$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/web/productList.jsp" />
         <option value="$PROJECT_DIR$/src/us/mattgreen/model/ProductLibrary.java" />
         <option value="$PROJECT_DIR$/src/us/mattgreen/model/DBStructure.java" />
         <option value="$PROJECT_DIR$/src/us/mattgreen/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java" />
       </list>
     </option>
   </component>
@@ -466,10 +458,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -479,6 +471,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -496,11 +489,6 @@
               <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
               <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrahmStores - Copy" type="462c0819:PsiDirectoryNode" />
-              <item name="ProductDB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrahmStores - Copy" type="b2602c69:ProjectViewProjectNode" />
@@ -547,21 +535,23 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="derby" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="getId()&#9;PSI&#9;JAVA://us.mattgreen.model.Product#getId" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540260195500" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProductDB" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540527863952" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/toms/Distributed/lib/javax.transaction.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15136719" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -593,9 +583,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="GlassFish 5.0.0" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.0" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/NameMVC_war_exploded" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+    <configuration name="Store" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.0" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="NameMVC:war exploded">
           <settings />
@@ -604,9 +592,9 @@
       <server-settings>
         <option name="DOMAIN" value="domain1" />
         <option name="PRESERVE" value="false" />
-        <option name="COMPATIBILITY" value="false" />
+        <option name="COMPATIBILITY" value="true" />
         <option name="VIRTUAL_SERVER" />
-        <option name="USERNAME" value="admin" />
+        <option name="USERNAME" value="" />
         <option name="PASSWORD" value="" />
       </server-settings>
       <predefined_log_file id="GlassFish" enabled="true" />
@@ -662,6 +650,8 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="NameMVC:war exploded" />
+        </option>
+        <option name="BuildArtifacts" enabled="true">
           <artifact name="NameMVC:war exploded" />
         </option>
       </method>
@@ -703,17 +693,27 @@
       <workItem from="1540170649823" duration="4670000" />
       <workItem from="1540254846342" duration="5641000" />
       <workItem from="1540427195470" duration="1110000" />
+      <workItem from="1540523588052" duration="4114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56653000" />
+    <option name="totallyTimeSpent" value="60767000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15771812" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -723,25 +723,25 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932885" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7328859" weight="0.28053692" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73134327" visible="true" weight="0.27962577" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.4986577" weight="0.32885906" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49731544" weight="0.32885906" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2671141" side_tool="true" visible="true" weight="0.28053692" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32952183" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.4978678" weight="0.32848233" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4968017" weight="0.32848233" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.26865673" side_tool="true" weight="0.27962577" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49731544" weight="0.32885906" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.4986577" weight="0.32885906" />
-      <window_info anchor="bottom" id="Database Changes" order="12" sideWeight="0.4986577" weight="0.32885906" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49932885" weight="0.32885906" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" sideWeight="0.4986577" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4989339" weight="0.32848233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.16040269" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.15991472" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -835,9 +835,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/DBStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -848,6 +852,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -872,51 +883,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/productList.jsp">
+    <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="340">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        <state relative-caret-position="561">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/productList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/ProductLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/us/mattgreen/model/DBStructure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/us/mattgreen/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="187">
+          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -983,7 +980,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1003,6 +999,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Java EE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

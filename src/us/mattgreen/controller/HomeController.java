@@ -1,16 +1,11 @@
 package us.mattgreen.controller;
 
-
-import us.mattgreen.model.Product;
-import us.mattgreen.model.ProductLibrary;
-
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.List;
 
 public class HomeController extends HttpServlet {
     private String RESULT_PAGE = "home.jsp";
@@ -31,6 +26,10 @@ public class HomeController extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+        response.setContentType("text/html");
+        RequestDispatcher view =
+                request.getRequestDispatcher(RESULT_PAGE);
+        view.forward(request, response);
 
     }
 
